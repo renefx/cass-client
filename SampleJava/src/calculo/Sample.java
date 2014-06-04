@@ -1,3 +1,4 @@
+package calculo;
 public class Sample {
 	public static void main(String[] args) {
 	    Buffer bufferCompartilhado = new Buffer();

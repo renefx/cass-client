@@ -1,3 +1,4 @@
+package calculo;
 public class Produtor extends Thread {
     private int idProdutor;
     private Buffer pilha;

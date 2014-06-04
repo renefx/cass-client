@@ -1,3 +1,4 @@
+package calculo;
 public class Consumidor extends Thread {
     private int idConsumidor;
     private Buffer pilha;
